@@ -1,39 +1,45 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Naman Dixit
-===================================================================================================================================
+<div align="center">
+<p><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /></p>
+  </div>  
 
-Associate Data Scientist
-------------------------
+<h2 align="center">Hii ! <img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, <a href="https://www.linkedin.com/in/naman-dixit-nd/" target="_blank"> I'm Naman Dixit</h2>
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [namandixit635@gmail.com](mailto:namandixit635@gmail.com)
-* 🧠  I'm learning Deep Reinforcement Learning
+<h3 align="center"> 👀An Artificial Intelligence and Data Science Enthusiast </h3>
 
-<a href="https://www.github.com/KnightLock" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/KnightLock?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+I'm a Final Year BTech CS student studying Poornima University, Jaipur, India. I am keenly interested in Machine Learning, Deep Learning, NLP, and Reinforcement Learning. Through my Academic and Industrial experiences, I have gained a strong base of theoretical and practical concepts across various areas of Computer Science. As an innovative, creative thinker, I always look forward to collaborating on new projects or working with new technologies to grow my expertise.
 
-### Skills
-
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-</p>
+* ✉️  You can contact me at [namandixit635@gmail.com](mailto:namandixit635@gmail.com)
+* 🧠  I'm learning Deep Learning
+---
+## 🌐 Socials:
+<p align="left"> <a href="https://www.github.com/KnightLock" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sherlwing_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/naman-dixit-nd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="mailto:namandixit635@gmail.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/timche/gmail-desktop/aff32742fbcdc7c7b238f440a6d00880bf9d407c/media/icon.svg" width="32" height="32" /></a></p>
+  
+ 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=KnightLock&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
-### Socials
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white)
 
-<p align="left"> <a href="https://www.github.com/KnightLock" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in//naman-dixit-nd/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+---
+# 📊 GitHub Stats:
+<table>
+  <tr>
+   
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnightLock&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    <td><img src="https://github-readme-stats.vercel.app/api?username=KnightLock&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" /></td>
+  </tr>
+</table>
+  
+  
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KnightLock&theme=tokyonight&hide_border=false" /></p>
+  </div>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/KnightLock"><img src="https://github-readme-stats.vercel.app/api?username=KnightLock&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="KnightLock's GitHub stats" /></a>
-
-<a href="http://www.github.com/KnightLock"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KnightLock&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/KnightLock"><img src="https://activity-graph.herokuapp.com/graph?username=KnightLock&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+---
+[![](https://visitcount.itsvg.in/api?id=abhisheksh10&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<!---
+KnightLock/KnightLock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
